@@ -17,9 +17,8 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]
-(https://linkedin.com/in/joshi-riddhi-111366413) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/riddhijoshi2006-rgb)
+Linked in: (https://linkedin.com/in/joshi-riddhi-111366413) 
+Git hub : (https://github.com/riddhijoshi2006-rgb)
 
 ---
 
