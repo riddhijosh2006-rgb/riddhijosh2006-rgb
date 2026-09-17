@@ -5,7 +5,7 @@
 ## 👩‍💻 About Me
 
 🎓 B.Tech CSE (Data Science) Student | 2023–2027  
-💻 Aspiring Data Scientist / Machine Learning Engineer  
+💻 Aspiring Data Scientist / Data Engineer
 🐍 Strong foundation in Python, NumPy, Pandas & Data Analysis  
 🤖 Exploring Artificial Intelligence and Machine Learning  
 🌐 Building web applications using Flask, HTML, CSS & JavaScript  
@@ -28,7 +28,6 @@ Git hub : (https://github.com/riddhijoshi2006-rgb)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
 ## 🌐 Web Development
@@ -70,10 +69,6 @@ Git hub : (https://github.com/riddhijoshi2006-rgb)
 
 # 🚀 Featured Projects
 
-### 🎁 Giftify — AI Customized Gift Shop
-An AI-powered customized gift shop designed to help users discover and personalize gifts based on their requirements.
-
-**Tech:** Python, Flask, HTML, CSS, JavaScript, SQL/SQLite
 
 ### 🎬 CineMatch — Movie Recommendation Application
 A movie discovery and recommendation web application using movie APIs to provide information and recommendations to users.
